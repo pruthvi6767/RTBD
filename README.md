@@ -1,2 +1,4 @@
 # RTBD
 Real time Big Data Fall 15
+
+•	Future homes will all be equipped with robots where robots will be utilized in every possible way to make our lives simple. So in this project we present how we have programmed Wow-Wee Robot to serve as a cookbook assistant. This interactive cookbook robot has multi-function like suggesting recipes, playing music, etc. For our architecture we have used a simple server client architecture. We have used apache spark as our background engine to process data in parallel as batches. Our main idea was to use machine learning algorithms available with apache spark to aid our robot provide better results and find new insights from the data without being explicitly programmed. Our implementation of the robot is different to the ones that are already available. So in this paper we talk about our approach and the implementation of the project.
